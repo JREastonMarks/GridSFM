@@ -1,0 +1,4 @@
+input[type='number'],
+.dash-input-element[type='number'] {
+    color: black !important;
+}
