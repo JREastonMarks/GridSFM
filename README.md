@@ -1,3 +1,6 @@
+# Work In Progress
+**Note:** This is a work in progress and is not complete. It is subject to change at any time and may not work for your system.
+
 # GridSFM: Regional Graphormer N-1 Grid Simulator
 
 A specialized Graphormer model trained on the GridSFM dataset, isolated strictly to the Massachusetts/New England region for fast N-1 contingency testing.
